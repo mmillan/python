@@ -1,1 +1,6 @@
-PyPy: just-in-time compiler
+python
+pypy
+ipython
+
+entornos virtuales
+
