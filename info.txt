@@ -4,3 +4,17 @@ ipython
 
 entornos virtuales
 
+Global:
+
+                    (3.11.2)    /bin/python 
+                    (3.11.2)    /usr/bin/python
+
+Pipenv:
+
+training-Zdi1du4A   (3.11.2)    ~/local/share/virtualenvs/training-Zdi1du4A/bin/python
+
+Virtual 
+
+.Learning           (3.11.2)    ~/Documents/Dev/python/.python/bin/python
+.pypy               (3.9.16)    ~/Documents/Dev/python/.pypy/bin/python            
+.test01             (3.11.2)    ~/Documents/Dev/python/.test01/bin/python
